@@ -1,3 +1,21 @@
 {
-  "ELLOL": "HRA"
+  "date": "Sat, 24 Jan 2026 13:42:07 GMT",
+  "content-type": "application/json",
+  "content-length": "202",
+  "connection": "keep-alive",
+  "retry-after": "2351",
+  "cache-control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+  "expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+  "referrer-policy": "same-origin",
+  "x-frame-options": "SAMEORIGIN",
+  "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+  "x-content-type-options": "nosniff",
+  "vary": "accept-encoding",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=iIfAYa0IWMUVZ%2B7l5zK%2Fbx4i8%2FoyQHuH1rPP9e7hZAKR2tBKa1K0nvYE%2BC%2FneT2V2WXLmBQ%2F3tHitiA6x486EEl96kfG93wWpq4%3D\"}]}",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "reporting-endpoints": "csp-sentry=\"https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable\"",
+  "content-security-policy": "frame-ancestors 'none'; default-src https://o64374.ingest.sentry.io; report-to csp-sentry; report-uri https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable",
+  "server": "cloudflare",
+  "cf-ray": "9c2ff3c82fe3c3b1-IAD",
+  "alt-svc": "h3=\":443\"; ma=86400"
 }
