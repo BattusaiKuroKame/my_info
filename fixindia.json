@@ -1,7 +1,7 @@
 {
-  "date": "Sun, 25 Jan 2026 12:00:03 GMT",
+  "date": "Sun, 25 Jan 2026 12:00:06 GMT",
   "content-type": "application/json",
-  "content-length": "81",
+  "content-length": "79",
   "connection": "keep-alive",
   "server": "cloudflare",
   "content-security-policy": "frame-ancestors 'none'; default-src https://o64374.ingest.sentry.io; report-to csp-sentry; report-uri https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable",
@@ -11,22 +11,22 @@
   "x-ratelimit-bucket": "479c05630b7b353bb5c63f707eeef2ee",
   "x-ratelimit-limit": "5",
   "x-ratelimit-remaining": "0",
-  "x-ratelimit-reset": "1769342408.604",
-  "x-ratelimit-reset-after": "4.771",
+  "x-ratelimit-reset": "1769342410.600",
+  "x-ratelimit-reset-after": "4.002",
   "x-discord-features": "chat",
   "via": "1.1 google",
   "alt-svc": "h3=\":443\"; ma=86400",
-  "set-cookie": "__dcfduid=622b9ceaf9e511f088548944a04e6fb8; Expires=Fri, 24-Jan-2031 12:00:03 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax, __sdcfduid=622b9ceaf9e511f088548944a04e6fb8f554a53bba80ac516fbcec1838bdc42e99ec0ac8a6acda8b951c64d32e3e481f; Expires=Fri, 24-Jan-2031 12:00:03 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax, _cfuvid=pQN8eaMv4sS6S95.4qJbjZN40tJphNT5yzxQNu4wA3M-1769342403.738381-1.0.1.1-2uJCJjYo6yraQqQi0NoI2j8M_w_Xyv.c26uLzTImRy4; HttpOnly; SameSite=None; Secure; Path=/; Domain=discord.com",
+  "set-cookie": "__dcfduid=63d199c8f9e511f0b48f6bf936499b1a; Expires=Fri, 24-Jan-2031 12:00:06 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax, __sdcfduid=63d199c8f9e511f0b48f6bf936499b1a707b5885f0c47ab8d0711879db5121f06f986be991dabf0b29b12547da58b4ab; Expires=Fri, 24-Jan-2031 12:00:06 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax, _cfuvid=pqDBY_HZa4GdyCih6NBuDYvqjT1AiYl.0GsRNDZOZvs-1769342406.531537-1.0.1.1-loMUZclCQKB5puYXiw_RsjAnKFLgY3PvA4pZQBbhQS4; HttpOnly; SameSite=None; Secure; Path=/; Domain=discord.com",
   "cf-cache-status": "BYPASS",
   "x-content-type-options": "nosniff",
   "vary": "accept-encoding",
-  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=l6lEOD8YMIqwQu%2B8%2FfeVrppo35JWZGT5LAZm56yNHuFc645E%2B9SL%2B04c3lbuN2cmHsWC%2BxsqQqs0A%2Bv7vLIvQxVj1EhFPbzhmFU%3D\"}]}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=lIsgKeC5tWg2W26SkhV4sUfF4XBjaBZ76jqGRJq2Tjd3vTtDjADMXa1p3aroMvR79ZcZU4BaAtu6OoIqzfiAw0BkIbYjF5vIY8k%3D\"}]}",
   "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
   "reporting-endpoints": "csp-sentry=\"https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable\"",
-  "cf-ray": "9c379ba75a1f8de6-IAD",
+  "cf-ray": "9c379bb8daf6060f-IAD",
   "jdata": {
     "message": "You are being rate limited.",
-    "retry_after": 0.771,
+    "retry_after": 0.3,
     "global": false
   }
 }
