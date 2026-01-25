@@ -1,4 +1,40 @@
 {
-  "message_id": "1464989816906186934",
-  "timestamp": "2026-01-25T14:26:30.296080+00:00"
+  "date": "Sun, 25 Jan 2026 14:32:36 GMT",
+  "content-type": "application/json",
+  "transfer-encoding": "chunked",
+  "connection": "keep-alive",
+  "server": "cloudflare",
+  "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+  "x-ratelimit-bucket": "3df15bae86f6647dd4dfcbd5c6949480",
+  "x-ratelimit-limit": "5",
+  "x-ratelimit-remaining": "4",
+  "x-ratelimit-reset": "1769351557.464",
+  "x-ratelimit-reset-after": "1.000",
+  "x-discord-features": "chat",
+  "content-encoding": "gzip",
+  "vary": "Accept-Encoding",
+  "via": "1.1 google",
+  "alt-svc": "h3=\":443\"; ma=86400",
+  "cf-cache-status": "DYNAMIC",
+  "set-cookie": "__dcfduid=b1906df0f9fa11f0ab577dcd704c15fb; Expires=Fri, 24-Jan-2031 14:32:36 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax, __sdcfduid=b1906df0f9fa11f0ab577dcd704c15fb8fd15226af87d7c43e6a4ea78389dd67b5ecd04611e09d1420f58bb4afcd52eb; Expires=Fri, 24-Jan-2031 14:32:36 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax, _cfuvid=Lc4t8xl.uELjkGl7PlE42CzIoaQM9IeWjx1iWAlvInU-1769351556.2687466-1.0.1.1-NFm5ZJtMQHt9T5eMl.Q9Bc2r7jvmgXxPk5vh8aG76Po; HttpOnly; SameSite=None; Secure; Path=/; Domain=discord.com",
+  "content-security-policy": "frame-ancestors 'none'; default-src https://o64374.ingest.sentry.io; report-to csp-sentry; report-uri https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ekvvnfbNWxVV86lKN1YuyP6thIVvVqqolR%2F9HzkaefXNDSwocQVoEwUxUK2SAS5UU%2B6K2xcdGujzgKZrM1zOF%2BNOoUUOrKW61to%3D\"}]}",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "reporting-endpoints": "csp-sentry=\"https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable\"",
+  "cf-ray": "9c387b1aa8d74732-BOM",
+  "jdata": {
+    "message": "Invalid Form Body",
+    "code": 50035,
+    "errors": {
+      "channel_id": {
+        "_errors": [
+          {
+            "code": "NUMBER_TYPE_COERCE",
+            "message": "Value \"GYGF\" is not snowflake."
+          }
+        ]
+      }
+    }
+  }
 }
