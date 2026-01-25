@@ -1,5 +1,5 @@
 {
-  "date": "Sun, 25 Jan 2026 11:48:47 GMT",
+  "date": "Sun, 25 Jan 2026 11:49:58 GMT",
   "content-type": "application/json",
   "content-length": "81",
   "connection": "keep-alive",
@@ -11,22 +11,22 @@
   "x-ratelimit-bucket": "479c05630b7b353bb5c63f707eeef2ee",
   "x-ratelimit-limit": "5",
   "x-ratelimit-remaining": "0",
-  "x-ratelimit-reset": "1769341732.621",
-  "x-ratelimit-reset-after": "4.911",
+  "x-ratelimit-reset": "1769341803.510",
+  "x-ratelimit-reset-after": "4.889",
   "x-discord-features": "chat",
   "via": "1.1 google",
   "alt-svc": "h3=\":443\"; ma=86400",
-  "set-cookie": "__dcfduid=cf2b8e2ef9e311f09d4a39ce47141acc; Expires=Fri, 24-Jan-2031 11:48:47 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax, __sdcfduid=cf2b8e2ef9e311f09d4a39ce47141accdc6645251e7e63b45a5ae48389f04746c2d947b4889bc2edeada80bbced6aa19; Expires=Fri, 24-Jan-2031 11:48:47 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax, _cfuvid=Rp9VyZKFhyMJFzJl6k0lMcsqqD1cARhW0wzjEgRegu4-1769341727.629791-1.0.1.1-PWzM99xSa3HYkql.joAveUwdl5VNAGJp2EVvL8NaloY; HttpOnly; SameSite=None; Secure; Path=/; Domain=discord.com",
+  "set-cookie": "__dcfduid=f96fb926f9e311f08eb7ad2187b94eae; Expires=Fri, 24-Jan-2031 11:49:58 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax, __sdcfduid=f96fb926f9e311f08eb7ad2187b94eaede58554c2d2ef7d0a6880c2b42d8e23675873f729e58805f714b9045ca58a492; Expires=Fri, 24-Jan-2031 11:49:58 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax, _cfuvid=DqCktsa218aYmfKJJPr5XJruVJBk5K6wjLqe1v2fivk-1769341798.529644-1.0.1.1-DFvA0ART8qxFU_WvNgaRp5UwxC1lI60rEuVyT6N2RAM; HttpOnly; SameSite=None; Secure; Path=/; Domain=discord.com",
   "cf-cache-status": "BYPASS",
   "x-content-type-options": "nosniff",
   "vary": "accept-encoding",
-  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=tWUmKO4%2Fo6WhDP4plT4sEUmBN%2FSMlPaqIB3MW6eUdqETpcI9w%2FIrVIrlBOotTy001zZ2Gme2eBgfhNO%2FrAJayPCSC6mhtT2decg%3D\"}]}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Zq4F2fLDuCv8AUCWO7i2FX%2FAYNXpGBOLWL1EV4FtWEkhZMEENieaHfLwWJFK2JZwFvwcDAAQAXZp5zVE07neNO%2B4ZOeaAJtedIk%3D\"}]}",
   "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
   "reporting-endpoints": "csp-sentry=\"https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable\"",
-  "cf-ray": "9c378b25aa8a3897-IAD",
+  "cf-ray": "9c378ce0c82f2052-IAD",
   "jdata": {
     "message": "You are being rate limited.",
-    "retry_after": 0.911,
+    "retry_after": 0.889,
     "global": false
   }
 }
