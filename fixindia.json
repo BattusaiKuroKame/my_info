@@ -1,4 +1,40 @@
 {
-  "message_id": "1464924312157949973",
-  "timestamp": "2026-01-25T10:06:12.749318+00:00"
+  "date": "Sun, 25 Jan 2026 10:08:02 GMT",
+  "content-type": "application/json",
+  "transfer-encoding": "chunked",
+  "connection": "keep-alive",
+  "server": "cloudflare",
+  "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+  "x-ratelimit-bucket": "3df15bae86f6647dd4dfcbd5c6949480",
+  "x-ratelimit-limit": "5",
+  "x-ratelimit-remaining": "4",
+  "x-ratelimit-reset": "1769335683.103",
+  "x-ratelimit-reset-after": "1.000",
+  "x-discord-features": "chat",
+  "content-encoding": "gzip",
+  "vary": "Accept-Encoding",
+  "via": "1.1 google",
+  "alt-svc": "h3=\":443\"; ma=86400",
+  "cf-cache-status": "DYNAMIC",
+  "set-cookie": "__dcfduid=bbcb9102f9d511f0a16df7472c80313a; Expires=Fri, 24-Jan-2031 10:08:02 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax, __sdcfduid=bbcb9102f9d511f0a16df7472c80313a6db3c0adb9a56f0e4d0bed7b262609155d565164653fcc6f439c2b9a5264050f; Expires=Fri, 24-Jan-2031 10:08:02 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax, _cfuvid=sl5OSM6u09zkAEkSHMaFx4.W5R4kVGJg9E7P.YMqlbg-1769335681.9582014-1.0.1.1-YmlHix7sPcF6mOj6WOM5WTMY_VNauLq52suv.VBImgA; HttpOnly; SameSite=None; Secure; Path=/; Domain=discord.com",
+  "content-security-policy": "frame-ancestors 'none'; default-src https://o64374.ingest.sentry.io; report-to csp-sentry; report-uri https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=qWnjbB4g6P8wlIuiw3cVTAtXuqjNCVagl7v%2FTpoe5H5KrlppbG4VEZixbxA1kdQDicSvzYhK1GVXVQ5EtBRviXxyaldECviw1oQ%3D\"}]}",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "reporting-endpoints": "csp-sentry=\"https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable\"",
+  "cf-ray": "9c36f78c3ab207b6-IAD",
+  "jdata": {
+    "message": "Invalid Form Body",
+    "code": 50035,
+    "errors": {
+      "attachments": {
+        "_errors": [
+          {
+            "code": "BASE_TYPE_MAX_LENGTH",
+            "message": "Must be 10 or fewer in length."
+          }
+        ]
+      }
+    }
+  }
 }
