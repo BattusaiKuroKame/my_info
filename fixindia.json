@@ -1,32 +1,4 @@
 {
-  "date": "Tue, 27 Jan 2026 17:32:39 GMT",
-  "content-type": "application/json",
-  "content-length": "81",
-  "connection": "keep-alive",
-  "server": "cloudflare",
-  "content-security-policy": "frame-ancestors 'none'; default-src https://o64374.ingest.sentry.io; report-to csp-sentry; report-uri https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable",
-  "retry-after": "5",
-  "x-ratelimit-scope": "user",
-  "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
-  "x-ratelimit-bucket": "479c05630b7b353bb5c63f707eeef2ee",
-  "x-ratelimit-limit": "5",
-  "x-ratelimit-remaining": "0",
-  "x-ratelimit-reset": "1769535163.801",
-  "x-ratelimit-reset-after": "4.686",
-  "x-discord-features": "chat",
-  "via": "1.1 google",
-  "alt-svc": "h3=\":443\"; ma=86400",
-  "set-cookie": "__dcfduid=2d45856efba611f08fe1579f3d63526d; Expires=Sun, 26-Jan-2031 17:32:39 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax, __sdcfduid=2d45856efba611f08fe1579f3d63526df55a029d4cfd826a109ddd820f17d0c9135d2c2e1d0a5b4f9210f84ec403dbf9; Expires=Sun, 26-Jan-2031 17:32:39 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax, _cfuvid=mRFhI7c8uEpzaODCINxzeGWtgQlAfL2t.pRI_AyYiDo-1769535159.0488534-1.0.1.1-lQgoDjRpUM9kIQ20CrgDwHAI99p_6RFq1UgL08TbXhI; HttpOnly; SameSite=None; Secure; Path=/; Domain=discord.com",
-  "cf-cache-status": "BYPASS",
-  "x-content-type-options": "nosniff",
-  "vary": "accept-encoding",
-  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=E%2BsjuvuBYoQDhhbRWPyFix1X%2FhF4FgbCZMQ674igCNMc%2BdXDQB0cpow6aWTOFRNDJOH3wZ6zaYEjWcEm5YZq6mEFkOCm12tWzCk%3D\"}]}",
-  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
-  "reporting-endpoints": "csp-sentry=\"https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable\"",
-  "cf-ray": "9c49fd980f5d0598-IAD",
-  "jdata": {
-    "message": "You are being rate limited.",
-    "retry_after": 0.686,
-    "global": false
-  }
+  "message_id": "1465761508230435059",
+  "timestamp": "2026-01-27T17:32:51.744107+00:00"
 }
