@@ -1,4 +1,32 @@
 {
-  "message_id": "1465739287566880922",
-  "timestamp": "2026-01-27T16:04:36.770906+00:00"
+  "date": "Tue, 27 Jan 2026 16:05:24 GMT",
+  "content-type": "application/json",
+  "content-length": "81",
+  "connection": "keep-alive",
+  "server": "cloudflare",
+  "content-security-policy": "frame-ancestors 'none'; default-src https://o64374.ingest.sentry.io; report-to csp-sentry; report-uri https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable",
+  "retry-after": "5",
+  "x-ratelimit-scope": "user",
+  "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+  "x-ratelimit-bucket": "479c05630b7b353bb5c63f707eeef2ee",
+  "x-ratelimit-limit": "5",
+  "x-ratelimit-remaining": "0",
+  "x-ratelimit-reset": "1769529929.629",
+  "x-ratelimit-reset-after": "4.986",
+  "x-discord-features": "chat",
+  "via": "1.1 google",
+  "alt-svc": "h3=\":443\"; ma=86400",
+  "set-cookie": "__dcfduid=fd488d54fb9911f0adef4b5aab096ba6; Expires=Sun, 26-Jan-2031 16:05:24 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax, __sdcfduid=fd488d54fb9911f0adef4b5aab096ba68a69b642ab2004171b3d02d1b9307b21a0d313c5cba99dfb0613f40a93e9f3b7; Expires=Sun, 26-Jan-2031 16:05:24 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax, _cfuvid=ibUHX4_FQLDkaYUzcEVAef4ViHmUU4leksjHB.7UG6A-1769529924.5693872-1.0.1.1-xDkeSFv8YN8XKd7qxL_suefpkF_i8UT_0XfetDIlaaA; HttpOnly; SameSite=None; Secure; Path=/; Domain=discord.com",
+  "cf-cache-status": "BYPASS",
+  "x-content-type-options": "nosniff",
+  "vary": "accept-encoding",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=gDCmDA9rqIsBxvIJLu8bRud%2B1wK%2BkkYxuadPQJOFeX%2BL1WvY0KkCdO5bV3nFqeT%2BOdQ58tudl%2BeUUcHPtSGiFws6sG4lv2Fb8B8%3D\"}]}",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "reporting-endpoints": "csp-sentry=\"https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable\"",
+  "cf-ray": "9c497dcc8b5481d0-IAD",
+  "jdata": {
+    "message": "You are being rate limited.",
+    "retry_after": 0.986,
+    "global": false
+  }
 }
