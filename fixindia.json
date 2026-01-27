@@ -1,32 +1,4 @@
 {
-  "date": "Tue, 27 Jan 2026 17:34:12 GMT",
-  "content-type": "application/json",
-  "content-length": "79",
-  "connection": "keep-alive",
-  "server": "cloudflare",
-  "retry-after": "5",
-  "x-ratelimit-scope": "user",
-  "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
-  "x-ratelimit-bucket": "479c05630b7b353bb5c63f707eeef2ee",
-  "x-ratelimit-limit": "5",
-  "x-ratelimit-remaining": "0",
-  "x-ratelimit-reset": "1769535256.225",
-  "x-ratelimit-reset-after": "4.020",
-  "x-discord-features": "chat",
-  "via": "1.1 google",
-  "alt-svc": "h3=\":443\"; ma=86400",
-  "cf-cache-status": "BYPASS",
-  "set-cookie": "__dcfduid=64c1f2b6fba611f09d8b25447be13e79; Expires=Sun, 26-Jan-2031 17:34:12 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax, __sdcfduid=64c1f2b6fba611f09d8b25447be13e794981f70b8a0902f1be2dffe887c3a35e33c6059cff03b65af55e826a2ed0bdfe; Expires=Sun, 26-Jan-2031 17:34:12 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax, _cfuvid=xpR1bkNfZzgjfeL8s0Ip9dn9LbGvdMGbUjmIEinTMc8-1769535252.151277-1.0.1.1-TXCY_sau9RnwjOrs.lwI4cFzDLLvywGoMTxIjI5o.XY; HttpOnly; SameSite=None; Secure; Path=/; Domain=discord.com",
-  "content-security-policy": "frame-ancestors 'none'; default-src https://o64374.ingest.sentry.io; report-to csp-sentry; report-uri https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable",
-  "x-content-type-options": "nosniff",
-  "vary": "accept-encoding",
-  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=vuW5W8N5wJA44ngJIMhvvsy2VdFbqdE4j8HCWCwA55jXK5nCtIOni06no3GXJhiFmh8343v8IkKMuX9IqE3UZBDdY2wPUJ0wptA%3D\"}]}",
-  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
-  "reporting-endpoints": "csp-sentry=\"https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable\"",
-  "cf-ray": "9c49ffddfffed1bc-IAD",
-  "jdata": {
-    "message": "You are being rate limited.",
-    "retry_after": 0.3,
-    "global": false
-  }
+  "message_id": "1465761850674253954",
+  "timestamp": "2026-01-27T17:34:17.332289+00:00"
 }
