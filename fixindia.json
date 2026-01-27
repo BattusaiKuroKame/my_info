@@ -1,40 +1,4 @@
 {
-  "date": "Tue, 27 Jan 2026 16:38:22 GMT",
-  "content-type": "application/json",
-  "transfer-encoding": "chunked",
-  "connection": "keep-alive",
-  "server": "cloudflare",
-  "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
-  "x-ratelimit-bucket": "3df15bae86f6647dd4dfcbd5c6949480",
-  "x-ratelimit-limit": "5",
-  "x-ratelimit-remaining": "4",
-  "x-ratelimit-reset": "1769531903.066",
-  "x-ratelimit-reset-after": "1.000",
-  "x-discord-features": "chat",
-  "content-encoding": "gzip",
-  "vary": "Accept-Encoding",
-  "via": "1.1 google",
-  "alt-svc": "h3=\":443\"; ma=86400",
-  "cf-cache-status": "DYNAMIC",
-  "set-cookie": "__dcfduid=98109292fb9e11f08d9e57df62b18f41; Expires=Sun, 26-Jan-2031 16:38:22 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax, __sdcfduid=98109292fb9e11f08d9e57df62b18f41719007a08ead32d2972274a2dc5785ef8e835971e090688abf616c5aed08628c; Expires=Sun, 26-Jan-2031 16:38:22 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax, _cfuvid=oVEhzVx8xhrQPYD7eQxZowUygCHMAtThvGqXeI3YiNc-1769531901.780204-1.0.1.1-e7q4bSdw.dPczSgo9HhbxITUuFyhHadCoXhbOWuJpdM; HttpOnly; SameSite=None; Secure; Path=/; Domain=discord.com",
-  "content-security-policy": "frame-ancestors 'none'; default-src https://o64374.ingest.sentry.io; report-to csp-sentry; report-uri https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable",
-  "x-content-type-options": "nosniff",
-  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ZXAiDwhaimWhGM7prOR7i%2BrYjLUkga54MhTVppoSEqvitrJ1yBSCxB%2BVOZy%2BJEd1%2Fvh2Sb7r8QLO%2Fpmnsf3a5w%2BS9ExnJV78tqU%3D\"}]}",
-  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
-  "reporting-endpoints": "csp-sentry=\"https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable\"",
-  "cf-ray": "9c49ae121c2e05b5-IAD",
-  "jdata": {
-    "message": "Invalid Form Body",
-    "code": 50035,
-    "errors": {
-      "attachments": {
-        "_errors": [
-          {
-            "code": "BASE_TYPE_MAX_LENGTH",
-            "message": "Must be 10 or fewer in length."
-          }
-        ]
-      }
-    }
-  }
+  "message_id": "1465751693860802654",
+  "timestamp": "2026-01-27T16:53:55.522172+00:00"
 }
