@@ -1,31 +1,4 @@
 {
-  "date": "Tue, 27 Jan 2026 17:32:24 GMT",
-  "content-type": "application/json",
-  "content-length": "80",
-  "connection": "keep-alive",
-  "server": "cloudflare",
-  "content-security-policy": "frame-ancestors 'none'; default-src https://o64374.ingest.sentry.io; report-to csp-sentry; report-uri https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable",
-  "retry-after": "5",
-  "x-ratelimit-scope": "user",
-  "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
-  "x-ratelimit-bucket": "479c05630b7b353bb5c63f707eeef2ee",
-  "x-ratelimit-limit": "5",
-  "x-ratelimit-remaining": "0",
-  "x-ratelimit-reset": "1769535149.011",
-  "x-ratelimit-reset-after": "4.680",
-  "x-discord-features": "chat",
-  "via": "1.1 google",
-  "alt-svc": "h3=\":443\"; ma=86400",
-  "cf-cache-status": "BYPASS",
-  "x-content-type-options": "nosniff",
-  "vary": "accept-encoding",
-  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=EJdxhBXZEP3DEtRW0FnscvSvHqejoIoAaAc7ZcCv7RkduXB6o%2BwMi1YJwN%2BaCVYiVQBFksZ2rl1CMKbsqyr7p8JDz245Egk4V30%3D\"}]}",
-  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
-  "reporting-endpoints": "csp-sentry=\"https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable\"",
-  "cf-ray": "9c49fd3b8a8dd640-IAD",
-  "jdata": {
-    "message": "You are being rate limited.",
-    "retry_after": 0.68,
-    "global": false
-  }
+  "message_id": "1465761439699566764",
+  "timestamp": "2026-01-27T17:32:39.129725+00:00"
 }
