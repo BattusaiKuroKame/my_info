@@ -1,9 +1,9 @@
 {
-  "date": "Fri, 30 Jan 2026 15:16:51 GMT",
+  "date": "Fri, 30 Jan 2026 15:17:02 GMT",
   "content-type": "text/html; charset=UTF-8",
   "transfer-encoding": "chunked",
   "connection": "keep-alive",
-  "retry-after": "2598",
+  "retry-after": "2587",
   "cache-control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
   "expires": "Thu, 01 Jan 1970 00:00:01 GMT",
   "referrer-policy": "same-origin",
@@ -11,12 +11,12 @@
   "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
   "x-content-type-options": "nosniff",
   "vary": "accept-encoding",
-  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=vHuKCFTI9uBWyriE2oVI%2BL6B%2FHye29z2yoaCo8yWF2%2FVAGu12Py%2BkwAuu4vMaap5ng0uwNU%2FXPXKBiiaIBJ909f%2BzxGFpKUKDJ0%3D\"}]}",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=wNgCUBMAfOYi6TKhIned%2BEYae9JoK%2BwjwrqyWt0fErU1cI1xMZMey6azQ%2B1Eex73BAyAvq%2FD4mLOPTbBgz%2B%2BrEJt9LPLN1xKfKU%3D\"}]}",
   "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
   "reporting-endpoints": "csp-sentry=\"https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable\"",
   "content-security-policy": "frame-ancestors 'none'; default-src https://o64374.ingest.sentry.io; report-to csp-sentry; report-uri https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable",
   "server": "cloudflare",
-  "cf-ray": "9c61eecc0884d62f-IAD",
+  "cf-ray": "9c61ef15397b72d4-IAD",
   "alt-svc": "h3=\":443\"; ma=86400",
   "jdata": {}
 }
