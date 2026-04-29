@@ -1,4 +1,24 @@
 {
-  "message_id": "1498987926141403268",
-  "timestamp": "2026-04-29T10:02:50.250594+00:00"
+  "date": "Wed, 29 Apr 2026 16:03:25 GMT",
+  "content-type": "application/json",
+  "content-length": "202",
+  "connection": "keep-alive",
+  "retry-after": "1818",
+  "cache-control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+  "expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+  "referrer-policy": "same-origin",
+  "x-frame-options": "SAMEORIGIN",
+  "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+  "x-content-type-options": "nosniff",
+  "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=mUB8rp%2FE86ojRekfLyZQGVDRlip%2B3cEUcDf6N0rnnOPc6ECMzUbXtqvkfSMtijbt5zeiuYo28HKSdfg5GZNu5PtWKPog5wfNPAqa32m0oiqiBmEJYT4LfZqulHnN\"}]}",
+  "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "reporting-endpoints": "csp-sentry=\"https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable\"",
+  "content-security-policy": "frame-ancestors 'none'; default-src https://o64374.ingest.sentry.io; report-to csp-sentry; report-uri https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable",
+  "server": "cloudflare",
+  "cf-ray": "9f3f8966995dc9a5-IAD",
+  "alt-svc": "h3=\":443\"; ma=86400",
+  "jdata": {
+    "code": 0,
+    "message": "You are being blocked from accessing our API temporarily due to exceeding global rate limits. Refer to https://discord.com/developers/docs/topics/rate-limits for more information."
+  }
 }
